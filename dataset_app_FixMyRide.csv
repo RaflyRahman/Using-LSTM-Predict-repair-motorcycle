@@ -1,0 +1,551 @@
+gejala1,gejala2,gejala3,jenis_motor,merk_motor,tahun,km_motor,pernah_servis,permasalahan_motor,solusi
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+oli berkurang drastis,suara aneh dari mesin,sulit distarter,manual,suzuki,2018,19000,ya,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+suara mendesis dari knalpot,rem keras,tidak ada,matic,yamaha,2016,24000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,getaran berlebihan,tidak bisa berakselerasi,manual,honda,2019,21000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+suara mendesis dari knalpot,akselerasi mendadak,tidak ada,matic,suzuki,2017,28000,ya,masalah knalpot,ganti knalpot dan periksa sistem pembuangan
+oli berlebihan,getaran pada setir,mesin mati mendadak,manual,yamaha,2016,23000,tidak,masalah mesin,periksa sistem bahan bakar dan ganti filter udara
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2019,15000,ya,masalah mesin,perbaiki kebocoran oli dan ganti starter yang rusak
+hilangnya tenaga,asap berlebihan,mesin mati mendadak,matic,honda,2020,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+rem berderit,idling tidak teratur,tidak ada,manual,suzuki,2018,20000,ya,masalah rem,ganti bantalan rem dan lumasi komponen rem
+bau aneh dari knalpot,mesin terlalu panas,konsumsi bahan bakar tinggi,manual,yamaha,2017,22000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kesulitan berpindah gigi,getaran mesin,suara berisik dari mesin,manual,honda,2019,25000,ya,masalah transmisi,periksa dan ganti cairan transmisi atau lakukan penyetelan kopling
+kopling selip,asap berlebihan,tidak ada,matic,suzuki,2016,28000,ya,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+konsumsi bahan bakar tinggi,suara aneh,mesin mati mendadak,matic,yamaha,2018,19000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan periksa tekanan bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2017,21000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2015,24000,ya,masalah transmisi,periksa dan ganti oli transmisi atau lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,manual,yamaha,2016,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2016,30000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,10000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2015,18000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2019,22000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh,idling tidak teratur,mesin terlalu panas,manual,yamaha,2017,25000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,matic,honda,2020,18000,tidak,masalah transmisi,ganti rakitan kopling dan periksa gearbox
+kondisi mesin baik,suara normal,tidak ada,matic,honda,2021,10000,tidak,tidak ada permasalahan,tidak ada solusi
+suara mendesis dari knalpot,rem responsif,sulit distarter,manual,yamaha,2020,25000,ya,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,idling tidak teratur,mesin mati mendadak,matic,suzuki,2018,18000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2019,22000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,yamaha,2017,20000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara mendesis,idling tidak teratur,mesin terlalu panas,matic,suzuki,2019,28000,ya,masalah mesin,periksa sistem pendingin dan ganti kipas radiator
+kopling terlalu lembek,asap berlebihan,tidak ada,manual,honda,2018,24000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+oli berlebihan,suara mendesis dari mesin,sulit distarter,matic,yamaha,2016,19000,tidak,masalah sistem bahan bakar,bersihkan karburator dan periksa tekanan bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2019,28000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,honda,2015,17000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,yamaha,2017,21000,ya,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2021,16000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter udara
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2018,23000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,yamaha,2016,18000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,suzuki,2022,14000,tidak,masalah sistem bahan bakar,periksa tekanan bahan bakar dan ganti filter bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,honda,2017,25000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2019,20000,ya,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2016,28000,tidak,masalah transmisi,lakukan penyetelan kopling dan periksa gearbox
+oli berlebihan,getaran pada setir,sulit distarter,matic,honda,2018,21000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter udara
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,yamaha,2017,22000,tidak,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,suzuki,2015,26000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,honda,2019,19000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+rem berderit,getaran pada setir,sulit distarter,manual,honda,2020,28000,ya,masalah rem,periksa piringan rem dan ganti kampas rem
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,yamaha,2018,22000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2017,20000,tidak,masalah transmisi,periksa rantai transmisi dan lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,honda,2016,21000,tidak,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,yamaha,2021,19000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,suzuki,2019,17000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,honda,2015,26000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,yamaha,2018,18000,tidak,masalah sistem bahan bakar,bersihkan karburator dan periksa tekanan bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2020,25000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,honda,2017,21000,ya,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,yamaha,2019,22000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,suzuki,2021,16000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter udara
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,honda,2018,23000,ya,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,yamaha,2016,18000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,suzuki,2022,14000,tidak,masalah sistem bahan bakar,periksa tekanan bahan bakar dan ganti filter bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,honda,2017,25000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2019,20000,ya,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2016,28000,tidak,masalah transmisi,lakukan penyetelan kopling dan periksa gearbox
+oli berlebihan,getaran pada setir,sulit distarter,matic,honda,2018,21000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter udara
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,yamaha,2017,22000,tidak,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,suzuki,2015,26000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,honda,2019,19000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,rem responsif,sulit distarter,manual,yamaha,2022,15000,ya,masalah transmisi,periksa rantai transmisi dan lakukan penyetelan kopling
+suara mendesis,idling tidak teratur,mesin mati mendadak,matic,suzuki,2021,18000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2019,22000,tidak,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+oli berlebihan,suara mendesis,sulit distarter,matic,yamaha,2020,21000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2018,20000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,honda,2017,17000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,yamaha,2016,24000,ya,masalah transmisi,lakukan penyetelan kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,suzuki,2022,16000,tidak,masalah sistem bahan bakar,periksa tekanan bahan bakar dan ganti filter bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,honda,2019,27000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,19000,ya,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,honda,2018,23000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter udara
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,yamaha,2017,21000,tidak,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,suzuki,2015,28000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,honda,2019,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+suara aneh dari mesin,rem responsif,sulit distarter,manual,yamaha,2020,22000,ya,masalah rem,periksa piringan rem dan ganti kampas rem
+bau gas berlebihan,idling tidak teratur,mesin mati mendadak,matic,suzuki,2017,25000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2018,20000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,yamaha,2022,18000,tidak,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2019,19000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,honda,2021,21000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,yamaha,2015,26000,ya,masalah transmisi,lakukan penyetelan kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,suzuki,2020,16000,tidak,masalah sistem bahan bakar,periksa tekanan bahan bakar dan ganti filter bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,honda,2022,27000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2019,19000,ya,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,honda,2018,23000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter udara
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,yamaha,2017,21000,tidak,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,suzuki,2016,28000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,honda,2019,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+rem berderit,getaran pada setir,sulit distarter,manual,honda,2021,18000,ya,masalah rem,periksa piringan rem dan ganti kampas rem
+suara mendesis,idling tidak teratur,mesin mati mendadak,matic,yamaha,2021,20000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2020,22000,tidak,masalah transmisi,ganti kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,yamaha,2019,16000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2021,19000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,honda,2022,20000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,yamaha,2018,24000,ya,masalah transmisi,lakukan penyetelan kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,suzuki,2020,15000,tidak,masalah sistem bahan bakar,periksa tekanan bahan bakar dan ganti filter bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,honda,2019,26000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2017,19000,ya,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2022,23000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,honda,2018,25000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter udara
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,yamaha,2020,21000,tidak,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,suzuki,2019,28000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,honda,2017,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+getaran berlebihan,rem responsif,sulit distarter,manual,yamaha,2019,17000,ya,masalah transmisi,periksa rantai transmisi dan lakukan penyetelan kopling
+suara mendesis,idling tidak teratur,mesin mati mendadak,matic,suzuki,2022,19000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,honda,2018,22000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+oli berlebihan,suara mendesis,sulit distarter,matic,yamaha,2020,21000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,suzuki,2017,20000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,honda,2019,19000,tidak,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,yamaha,2016,23000,ya,masalah transmisi,lakukan penyetelan kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,suzuki,2021,16000,tidak,masalah sistem bahan bakar,periksa tekanan bahan bakar dan ganti filter bahan bakar
+getaran berlebihan,asap berlebihan,mesin mati mendadak,manual,honda,2019,26000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis dari knalpot,rem tidak pakem,tidak ada,matic,yamaha,2021,18000,ya,masalah knalpot,periksa dan perbaiki sistem pembuangan
+kopling terlalu keras,suara gesekan,tidak bisa berakselerasi,manual,suzuki,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan lakukan penyetelan kopling
+oli berlebihan,getaran pada setir,sulit distarter,matic,honda,2018,23000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter udara
+suara aneh,idling tidak teratur,mesin terlalu panas,matic,yamaha,2017,22000,tidak,masalah mesin,periksa sistem pendingin dan ganti termostat
+kopling terlalu lembek,suara mendesis dari mesin,tidak bisa berakselerasi,manual,suzuki,2016,28000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,suara mendesis,sulit distarter,matic,honda,2019,20000,tidak,masalah sistem bahan bakar,bersihkan karburator dan ganti filter udara
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2020,18000,ya,masalah rem,ganti kampas rem dan periksa piringan rem
+suara aneh dari mesin,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2017,20000,tidak,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+kopling terlalu lembek,idling tidak teratur,tidak ada,manual,honda,2018,22000,ya,masalah kopling,lakukan penyetelan kopling dan periksa plat kopling
+bau aneh dari knalpot,mesin mati mendadak,kesulitan berpindah gigi,matic,yamaha,2019,25000,ya,masalah transmisi,ganti oli transmisi dan periksa gearbox
+getaran berlebihan,suara mendesis,tidak bisa berakselerasi,manual,suzuki,2020,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+oli berlebihan,rem tidak pakem,mesin terlalu panas,matic,honda,2016,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,sulit distarter,tidak ada,manual,yamaha,2021,20000,ya,masalah starter,ganti starter dan periksa sistem starter
+suara aneh dari knalpot,kesulitan berpindah gigi,mesin mati mendadak,matic,suzuki,2018,24000,tidak,masalah elektrikal,periksa sistem kelistrikan dan ganti busi
+bau gas berlebihan,suara mendesis,tidak bisa berakselerasi,manual,honda,2017,19000,tidak,masalah sistem bahan bakar,bersihkan karburator dan periksa tekanan bahan bakar
+suara mendesis dari mesin,rem tidak pakem,mesin terlalu panas,matic,yamaha,2022,22000,ya,masalah mesin,periksa sistem pendingin dan ganti thermostat
+suara aneh dari mesin,kesulitan berpindah gigi,sulit distarter,manual,yamaha,2019,17000,tidak,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kebocoran oli,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2020,19000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+kopling terlalu lembek,suara mendesis,mesin terlalu panas,manual,suzuki,2018,22000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+getaran berlebihan,kesulitan berpindah gigi,sulit distarter,matic,yamaha,2021,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,mesin mati mendadak,manual,honda,2017,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,23000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,rem tidak pakem,sulit distarter,manual,yamaha,2020,20000,tidak,masalah rem,ganti kampas rem dan periksa piringan rem
+kebocoran oli,kesulitan berpindah gigi,mesin terlalu panas,matic,honda,2022,24000,ya,masalah pendingin,periksa dan ganti termostat atau bersihkan saluran pendingin
+kopling terlalu keras,suara mendesis,tidak bisa berakselerasi,manual,suzuki,2016,27000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,yamaha,2019,20000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh dari knalpot,kesulitan berpindah gigi,mesin mati mendadak,manual,suzuki,2020,21000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kebocoran oli,bau gas berlebihan,tidak bisa berakselerasi,matic,yamaha,2017,20000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,mesin mati mendadak,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu keras,kesulitan berpindah gigi,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara aneh dari knalpot,rem tidak pakem,sulit distarter,manual,yamaha,2018,22000,ya,masalah rem,ganti kampas rem dan periksa piringan rem
+kebocoran oli,suara mendesis,kesulitan berpindah gigi,matic,suzuki,2017,24000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+rem berderit,kesulitan berpindah gigi,tidak bisa berakselerasi,manual,honda,2022,26000,tidak,masalah transmisi,ganti kopling dan periksa gearbox
+oli berlebihan,suara mendesis,sulit distarter,matic,yamaha,2019,20000,tidak,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+suara aneh dari knalpot,kesulitan berpindah gigi,mesin mati mendadak,manual,suzuki,2020,21000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kebocoran oli,bau gas berlebihan,tidak bisa berakselerasi,matic,yamaha,2017,20000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara mendesis,rem tidak pakem,kesulitan berpindah gigi,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2022,28000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+kebocoran oli,kopling terlalu keras,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara aneh dari knalpot,getaran berlebihan,kesulitan berpindah gigi,manual,yamaha,2020,20000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,bau gas berlebihan,tidak bisa berakselerasi,matic,yamaha,2017,20000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2022,28000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+kebocoran oli,kopling terlalu keras,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara aneh dari knalpot,getaran berlebihan,kesulitan berpindah gigi,manual,yamaha,2020,20000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,yamaha,2017,20000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,manual,suzuki,2022,28000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kebocoran oli,bau gas berlebihan,tidak bisa berakselerasi,matic,yamaha,2017,20000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2022,28000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+kebocoran oli,kopling terlalu keras,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara aneh dari knalpot,getaran berlebihan,kesulitan berpindah gigi,manual,yamaha,2020,20000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2022,28000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+kebocoran oli,kopling terlalu keras,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara aneh dari knalpot,getaran berlebihan,kesulitan berpindah gigi,manual,yamaha,2020,20000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,yamaha,2017,20000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,manual,suzuki,2022,28000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kebocoran oli,bau gas berlebihan,tidak bisa berakselerasi,matic,yamaha,2017,20000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2022,28000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+kebocoran oli,kopling terlalu keras,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara aneh dari knalpot,getaran berlebihan,kesulitan berpindah gigi,manual,yamaha,2020,20000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2022,28000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+kebocoran oli,kopling terlalu keras,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara aneh dari knalpot,getaran berlebihan,kesulitan berpindah gigi,manual,yamaha,2020,20000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+oli berlebihan,bau gas berlebihan,tidak bisa berakselerasi,matic,yamaha,2017,20000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2022,28000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+kebocoran oli,kopling terlalu keras,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara aneh dari knalpot,getaran berlebihan,kesulitan berpindah gigi,manual,yamaha,2020,20000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2019,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,bau gas berlebihan,tidak bisa berakselerasi,matic,suzuki,2022,28000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+kebocoran oli,kopling terlalu keras,mesin mati mendadak,matic,honda,2021,23000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara aneh dari knalpot,getaran berlebihan,kesulitan berpindah gigi,manual,yamaha,2020,20000,ya,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+kopling terlalu lembek,bau aneh dari knalpot,tidak bisa berakselerasi,matic,honda,2018,19000,ya,masalah transmisi,ganti kopling dan periksa gearbox
+rem berderit,suara mendesis,sulit distarter,manual,yamaha,2021,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau aneh dari knalpot,kesulitan berpindah gigi,tidak bisa berakselerasi,matic,suzuki,2019,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis dari mesin,kesulitan berpindah gigi,sulit distarter,manual,honda,2022,26000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+suara mendesis,rem tidak pakem,mesin terlalu panas,manual,suzuki,2018,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+kopling terlalu keras,kesulitan berpindah gigi,sulit distarter,matic,honda,2020,25000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kebocoran oli,suara aneh,sulit distarter,matic,yamaha,2022,18000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau gas berlebihan,rem berderit,mesin mati mendadak,manual,suzuki,2019,22000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,kopling terlalu lembek,sulit distarter,matic,honda,2021,25000,ya,masalah transmisi,ganti oli transmisi dan periksa kopling
+suara mendesis,kesulitan berpindah gigi,bau aneh dari knalpot,manual,yamaha,2020,20000,ya,masalah knalpot,periksa dan bersihkan knalpot atau ganti jika diperlukan
+kopling terlalu keras,kesulitan berpindah gigi,bau gas berlebihan,matic,honda,2022,28000,tidak,masalah mesin,lakukan penyetelan mesin dan periksa sistem pembakaran
+suara mendesis,bau gas berlebihan,sulit distarter,manual,suzuki,2018,23000,tidak,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+rem tidak pakem,suara mendesis,mesin terlalu panas,matic,yamaha,2021,24000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+suara aneh,kesulitan berpindah gigi,sulit distarter,manual,honda,2019,20000,ya,masalah transmisi,ganti oli transmisi dan periksa kopling
+kebocoran oli,suara mendesis,sulit distarter,matic,suzuki,2020,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau gas berlebihan,kopling terlalu keras,mesin mati mendadak,manual,yamaha,2017,18000,ya,masalah sistem bahan bakar,bersihkan injektor bahan bakar dan ganti filter bahan bakar
+getaran berlebihan,rem berderit,kesulitan berpindah gigi,matic,honda,2022,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis,bau gas berlebihan,sulit distarter,manual,suzuki,2018,20000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu lembek,suara mendesis,mesin terlalu panas,matic,yamaha,2021,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+rem tidak pakem,kesulitan berpindah gigi,bau aneh dari knalpot,manual,honda,2019,25000,tidak,masalah knalpot,periksa dan bersihkan knalpot atau ganti jika diperlukan
+suara aneh,kopling terlalu keras,sulit distarter,matic,suzuki,2020,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kebocoran oli,kesulitan berpindah gigi,bau gas berlebihan,manual,yamaha,2017,19000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,suara mendesis,sulit distarter,matic,honda,2022,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau gas berlebihan,rem tidak pakem,mesin mati mendadak,manual,suzuki,2018,22000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara mendesis,kesulitan berpindah gigi,sulit distarter,matic,yamaha,2021,21000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kopling terlalu keras,suara aneh,sulit distarter,manual,honda,2019,23000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,rem tidak pakem,kesulitan berpindah gigi,matic,yamaha,2021,18000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kopling terlalu lembek,bau gas berlebihan,mesin mati mendadak,manual,suzuki,2019,22000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,kopling terlalu keras,sulit distarter,matic,honda,2021,25000,ya,masalah mesin,lakukan penyetelan mesin dan periksa sistem pembakaran
+suara mendesis,kesulitan berpindah gigi,bau aneh dari knalpot,manual,yamaha,2020,20000,ya,masalah knalpot,periksa dan bersihkan knalpot atau ganti jika diperlukan
+kopling terlalu keras,kesulitan berpindah gigi,bau gas berlebihan,matic,honda,2022,28000,tidak,masalah mesin,lakukan penyetelan mesin dan periksa sistem pembakaran
+suara mendesis,bau gas berlebihan,sulit distarter,manual,suzuki,2018,23000,tidak,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+rem tidak pakem,suara mendesis,mesin terlalu panas,matic,yamaha,2021,24000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+suara aneh,kesulitan berpindah gigi,sulit distarter,manual,honda,2019,20000,ya,masalah transmisi,ganti oli transmisi dan periksa kopling
+kebocoran oli,suara mendesis,sulit distarter,matic,suzuki,2020,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau gas berlebihan,kopling terlalu keras,mesin mati mendadak,manual,yamaha,2017,18000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,rem berderit,kesulitan berpindah gigi,matic,honda,2022,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis,bau gas berlebihan,sulit distarter,manual,suzuki,2018,20000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu lembek,suara mendesis,mesin terlalu panas,matic,yamaha,2021,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+rem tidak pakem,kesulitan berpindah gigi,bau aneh dari knalpot,manual,honda,2019,25000,tidak,masalah knalpot,periksa dan bersihkan knalpot atau ganti jika diperlukan
+suara aneh,kopling terlalu keras,sulit distarter,matic,suzuki,2020,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kebocoran oli,kesulitan berpindah gigi,bau gas berlebihan,manual,yamaha,2017,19000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,suara mendesis,sulit distarter,matic,honda,2022,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau gas berlebihan,rem tidak pakem,mesin mati mendadak,manual,suzuki,2018,22000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+suara mendesis,kesulitan berpindah gigi,sulit distarter,matic,yamaha,2021,21000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kopling terlalu keras,suara aneh,sulit distarter,manual,honda,2019,23000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
+suara mendesis,rem tidak pakem,kesulitan berpindah gigi,matic,yamaha,2021,18000,tidak,masalah transmisi,ganti oli transmisi dan periksa kopling
+kopling terlalu lembek,bau gas berlebihan,mesin mati mendadak,manual,suzuki,2019,22000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,kopling terlalu keras,sulit distarter,matic,honda,2021,25000,ya,masalah mesin,lakukan penyetelan mesin dan periksa sistem pembakaran
+suara mendesis,kesulitan berpindah gigi,bau aneh dari knalpot,manual,yamaha,2020,20000,ya,masalah knalpot,periksa dan bersihkan knalpot atau ganti jika diperlukan
+kopling terlalu keras,kesulitan berpindah gigi,bau gas berlebihan,matic,honda,2022,28000,tidak,masalah mesin,lakukan penyetelan mesin dan periksa sistem pembakaran
+suara mendesis,bau gas berlebihan,sulit distarter,manual,suzuki,2018,23000,tidak,masalah transmisi,periksa dan ganti kopling atau lakukan penyetelan transmisi
+rem tidak pakem,suara mendesis,mesin terlalu panas,matic,yamaha,2021,24000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+suara aneh,kesulitan berpindah gigi,sulit distarter,manual,honda,2019,20000,ya,masalah transmisi,ganti oli transmisi dan periksa kopling
+kebocoran oli,suara mendesis,sulit distarter,matic,suzuki,2020,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+bau gas berlebihan,kopling terlalu keras,mesin mati mendadak,manual,yamaha,2017,18000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,rem berderit,kesulitan berpindah gigi,matic,honda,2022,22000,ya,masalah transmisi,lakukan penyetelan transmisi dan ganti oli transmisi
+suara mendesis,bau gas berlebihan,sulit distarter,manual,suzuki,2018,20000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu lembek,suara mendesis,mesin terlalu panas,matic,yamaha,2021,23000,ya,masalah pendingin,bersihkan radiator dan ganti cairan pendingin
+rem tidak pakem,kesulitan berpindah gigi,bau aneh dari knalpot,manual,honda,2019,25000,tidak,masalah knalpot,periksa dan bersihkan knalpot atau ganti jika diperlukan
+suara aneh,kopling terlalu keras,sulit distarter,matic,suzuki,2020,21000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kebocoran oli,kesulitan berpindah gigi,bau gas berlebihan,manual,yamaha,2017,19000,ya,masalah sistem bahan bakar,ganti filter bahan bakar dan periksa tekanan bahan bakar
+getaran berlebihan,suara mendesis,sulit distarter,matic,honda,2022,24000,tidak,masalah mesin,periksa sistem pembakaran dan ganti busi
+kopling terlalu keras,suara aneh,kesulitan memulai,manual,honda,2019,23000,ya,masalah mesin,periksa sistem pembakaran dan ganti busi
